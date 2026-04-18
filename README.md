@@ -221,7 +221,7 @@ Provides a systematic approach to priming Claude Code with comprehensive project
 [![Stars](https://img.shields.io/github/stars/disler/just-prompt?style=flat-square&logo=github&labelColor=343b41)](https://github.com/disler/just-prompt/stargazers) ![License](https://img.shields.io/github/license/disler/just-prompt?style=flat-square&labelColor=343b41) [![Last Commit](https://img.shields.io/github/last-commit/disler/just-prompt?style=flat-square&logo=github&labelColor=343b41)](https://github.com/disler/just-prompt/commits) ![Language](https://img.shields.io/github/languages/top/disler/just-prompt?style=flat-square&labelColor=343b41)
 <br>
 
-[`claude-sdlc`](https://github.com/lantisprime/claude-sdlc) &nbsp; by &nbsp; [lantisprime](https://github.com/lantisprime)    
+[`claude-sdlc`](https://github.com/lantisprime/claude-sdlc) &nbsp; by &nbsp; [lantisprime](https://github.com/lantisprime) &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT    
 An 8-phase SDLC gatekeeper that forces Claude Code to ask for your signature before writing a single line. Stop unprompted refactors and enforce traceability.
 
 [![Stars](https://img.shields.io/github/stars/lantisprime/claude-sdlc?style=flat-square&logo=github&labelColor=343b41)](https://github.com/lantisprime/claude-sdlc/stargazers) ![License](https://img.shields.io/github/license/lantisprime/claude-sdlc?style=flat-square&labelColor=343b41) [![Last Commit](https://img.shields.io/github/last-commit/lantisprime/claude-sdlc?style=flat-square&logo=github&labelColor=343b41)](https://github.com/lantisprime/claude-sdlc/commits) ![Language](https://img.shields.io/github/languages/top/lantisprime/claude-sdlc?style=flat-square&labelColor=343b41)
